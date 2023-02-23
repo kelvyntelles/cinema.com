@@ -38,7 +38,8 @@ Catálogo de filmes
     </ul>
   </li>
 </ul>
-<h2>Video</h2>
+# Video
+
 ![ezgif com-video-to-gif (2)](https://user-images.githubusercontent.com/60902731/220957113-0eade798-7212-414b-b2dd-5751ca891133.gif)
 
 
